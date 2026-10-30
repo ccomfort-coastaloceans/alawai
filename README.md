@@ -17,4 +17,4 @@ Affiliations
 7University of Hawaiʻi at Mānoa, Office of the Chancellor
 
 
-This manuscript is currently submitted for consideration for publication in the nph Clean Water Collection “Advanced Sensing and Data-Driven Approaches for Water Quality Monitoring.”
+This manuscript is currently submitted for consideration for publication in the npj Clean Water Collection “Advanced Sensing and Data-Driven Approaches for Water Quality Monitoring.”
